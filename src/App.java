@@ -1,4 +1,5 @@
 import com.toedter.calendar.JDateChooser;
+
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
@@ -11,8 +12,9 @@ import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import java.sql.*;
 import java.text.SimpleDateFormat;
-import java.util.*;
+import java.util.Calendar;
 import java.util.Date;
+import java.util.Locale;
 import java.util.Random;
 
 public class App {
@@ -594,9 +596,9 @@ class DbConn {
     private DbConn() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            String url = "jdbc:mysql://localhost:3306/db_kampus";
-            String user = "root";
-            String password = "";
+            String url = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6682160";
+            String user = "sql6682160";
+            String password = "cPsvBlTxjk";
             conn = DriverManager.getConnection(url, user, password);
         } catch (SQLException | ClassNotFoundException e) {
             e.printStackTrace();
