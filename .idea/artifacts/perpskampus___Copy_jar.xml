@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="perpskampus - Copy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/perpskampus___Copy_jar</output-path>
+    <root id="archive" name="perpskampus - Copy.jar">
+      <element id="module-output" name="perpskampus - Copy" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/lib/jgoodies-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/lib/junit-4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/lib/jgoodies-looks-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/jdatechooser_bin_doc_1_1_1/DateChooserDemo.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../What This/Java Library/jdatechooser_bin_doc_1_1_1/lib/DateChooser.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.10/kotlin-stdlib-jdk8-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.7.10/kotlin-stdlib-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.10/kotlin-stdlib-common-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.7.10/kotlin-stdlib-jdk7-1.7.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
