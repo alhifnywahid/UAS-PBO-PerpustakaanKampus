@@ -1,4 +1,4 @@
-![PRIVIEW](assets/thumbnail.png)
+![PRIVIEW](./assets/thumbnail.png)
 
 SIMPLE PERPUSTAKAAN ONLINE BERBASIS GUI DENGAN BAHASA PEMEROGRAMAN JAVA
 
